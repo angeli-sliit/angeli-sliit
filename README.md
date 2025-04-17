@@ -7,8 +7,11 @@ IT Undergraduate at Sri Lanka Institute of Information Technology(SLIIT)
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem;Passionate+about+technology+%26+learning;Always+striving+to+grow+and+innovate" alt="Typing SVG" />
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=angeli-sliit&icon=0&color=6)](https://visitcount.itsvg.in)
-</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/angeli-sliit/count.svg" alt="Visitor Count" />
+</p>
+
 
 
 
@@ -32,3 +35,5 @@ IT Undergraduate at Sri Lanka Institute of Information Technology(SLIIT)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br><br>
 ---
+
+
