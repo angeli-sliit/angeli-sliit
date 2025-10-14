@@ -8,9 +8,8 @@ IT Undergraduate at Sri Lanka Institute of Information Technology(SLIIT)
 </a>
 
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/angeli-sliit/count.svg" alt="Visitor Count" />
-</p>
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=angeli-sliit)
+
 
 
 
