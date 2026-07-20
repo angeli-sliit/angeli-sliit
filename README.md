@@ -43,7 +43,7 @@ I'm a **final-year Data Science undergraduate at SLIIT** with interests in build
 ### AI/ML Engineering Intern - Sri Lanka Telecom PLC
 *Nov 2025 – May 2026*
 
--  **FTTH Fault Prediction** - 10-rule dynamic threshold engine + LightGBM reranker over 28M+ daily ACS signal-quality rows, built on Python/Spark/Parquet pipelines. **93.84% precision**, 3–7 day early warning.
+-  **FTTH Fault Prediction** - 10-rule dynamic threshold engine + LightGBM reranker over 28M+ daily ACS signal-quality rows, built on Python-based ETL pipelines using Parquet. **93.84% precision**, 3–7 day early warning.
 -  **Attendance Anomaly Detection** - AWS SageMaker Random Cut Forest on a 26-feature pipeline (Python, AWS Lambda). Real-time biometric fraud detection with <10% false positive rate.
 -  **Literature Review** - 30-page benchmark of AI/ML fraud detection across 12 telecom operators (Vodafone, AT&T, Singtel, Dialog Axiata, etc.) with a phased implementation roadmap.
 
