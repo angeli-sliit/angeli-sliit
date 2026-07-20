@@ -29,23 +29,23 @@
 
 ## 🧭 About Me
 
-I'm a **final-year Data Science undergraduate at SLIIT** with interests in building reliable data pipelines, scalable ML systems, and analytics platforms that work in production — not just in a notebook.
+I'm a **final-year Data Science undergraduate at SLIIT** with interests in building reliable data pipelines, scalable ML systems, and analytics platforms that work in production - not just in a notebook.
 
-- 🔭 **Currently:** Building **AOP-ProCon** — a positive-only contrastive learning framework for antioxidant peptide discovery using ESM-2 (650M) embeddings, under PlantAOx-ReliableXAI (CEAI, SLIIT)
-- 🏢 **Recently:** 6-month **AI/ML Engineering Intern @ Sri Lanka Telecom PLC** — production systems for national-scale FTTH fault prediction and attendance anomaly detection
+- 🔭 **Currently:** Building **AOP-ProCon** - a positive-only contrastive learning framework for antioxidant peptide discovery using ESM-2 (650M) embeddings, under PlantAOx-ReliableXAI (CEAI, SLIIT)
+- 🏢 **Recently:** 6-month **AI/ML Engineering Intern @ Sri Lanka Telecom PLC** - production systems for national-scale FTTH fault prediction and attendance anomaly detection
 - 📊 **Focus areas:** ETL/ELT, data warehousing, BI infrastructure, and the MLOps that keeps ML reliable in production
-- 🇱🇰 **Community:** Running [Learn DS සිංහලෙන්](https://www.facebook.com/profile.php?id=100070443336337) — teaching data science in Sinhala
+- 🇱🇰 **Community:** Running [Learn DS සිංහලෙන්](https://www.facebook.com/profile.php?id=100070443336337) - teaching data science in Sinhala
 
 ---
 
 ## 💼 Experience
 
-### AI/ML Engineering Intern — Sri Lanka Telecom PLC
+### AI/ML Engineering Intern - Sri Lanka Telecom PLC
 *Nov 2025 – May 2026*
 
--  **FTTH Fault Prediction** — 10-rule dynamic threshold engine + LightGBM reranker over 28M+ daily ACS signal-quality rows, built on Python/Spark/Parquet pipelines. **93.84% precision**, 3–7 day early warning.
--  **Attendance Anomaly Detection** — AWS SageMaker Random Cut Forest on a 26-feature pipeline (Python, AWS Lambda). Real-time biometric fraud detection with <10% false positive rate.
--  **Literature Review** — 30-page benchmark of AI/ML fraud detection across 12 telecom operators (Vodafone, AT&T, Singtel, Dialog Axiata, etc.) with a phased implementation roadmap.
+-  **FTTH Fault Prediction** - 10-rule dynamic threshold engine + LightGBM reranker over 28M+ daily ACS signal-quality rows, built on Python/Spark/Parquet pipelines. **93.84% precision**, 3–7 day early warning.
+-  **Attendance Anomaly Detection** - AWS SageMaker Random Cut Forest on a 26-feature pipeline (Python, AWS Lambda). Real-time biometric fraud detection with <10% false positive rate.
+-  **Literature Review** - 30-page benchmark of AI/ML fraud detection across 12 telecom operators (Vodafone, AT&T, Singtel, Dialog Axiata, etc.) with a phased implementation roadmap.
 
 ---
 
@@ -84,7 +84,7 @@ I'm a **final-year Data Science undergraduate at SLIIT** with interests in build
 
 ## 🔬 Research
 
-**AOP-ProCon** — *Mechanism-Aware Positive-Only Contrastive Learning for Antioxidant Peptides*
+**AOP-ProCon** - *Mechanism-Aware Positive-Only Contrastive Learning for Antioxidant Peptides*
 `Status: 🚧 Active Research`
 
 A proposed positive-only, mechanism-aware contrastive learning framework for AOP discovery, aimed at reducing random-negative bias using ESM-2 (650M) embeddings and leave-source-out retrieval evaluation.
