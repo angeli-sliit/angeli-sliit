@@ -122,14 +122,20 @@ AWS (SageMaker, S3, Lambda) · Docker · Git/GitHub · FastAPI · Spring Boot
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=angeli-sliit&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angeli-sliit&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=angeli-sliit&theme=tokyonight&hide_border=true&fire=0EA5E9&currStreakLabel=0EA5E9"/>
-</p>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=angeli-sliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=angeli-sliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=angeli-sliit&theme=tokyonight&hide_border=true&fire=0EA5E9&currStreakLabel=0EA5E9&v=1)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=angeli-sliit&bg_color=1a1b27&color=38bcad&line=618dd8&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
