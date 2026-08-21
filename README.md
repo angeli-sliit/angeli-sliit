@@ -95,7 +95,7 @@ A proposed positive-only, mechanism-aware contrastive learning framework for AOP
 
 - **BSc (Hons) Information Technology, specializing in Data Science**
 - Sri Lanka Institute of Information Technology (SLIIT)
-- CGPA: 3.52/4.00 · Expected Graduation: 2027
+- CGPA: 3.40/4.00 · Expected Graduation: 2027
 
 ---
 
