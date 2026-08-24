@@ -124,10 +124,12 @@ AWS (SageMaker, S3, Lambda) · Docker · Git/GitHub · FastAPI · Spring Boot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=angeli-sliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=angeli-sliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
+<p align="center">
+  <a href="https://github.com/angeli-sliit">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=angeli-sliit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Rank" height="170" />
+  </a>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=angeli-sliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=angeli-sliit&theme=tokyonight&hide_border=true&fire=0EA5E9&currStreakLabel=0EA5E9&v=1)](https://git.io/streak-stats)
 
